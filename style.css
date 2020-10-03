@@ -1,0 +1,47 @@
+.tab {
+    background:transparent;
+    color: white;
+    border: black, 1px;
+    margin: 1px;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.left {
+    background-color: #5d5c61;
+    color: white;
+    height: 100vh;
+}
+
+.mid {
+    background-color: #557a95;
+}
+
+.right {
+    background-color: #7395ae;
+    padding-left: 100px; 
+    padding-right: 100;
+}
+
+.email-list {
+    border: 1px;
+    margin: 5px;
+    margin-left: 2px;
+    background-color: #7395ae;
+    color: white;
+}
+
+.date {
+    text-align: right;
+}
+
+/**.email-content {
+
+}
+
+/***.email-title {
+
+}
